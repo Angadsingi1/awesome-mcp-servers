@@ -508,6 +508,10 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Tools that help manage, configure, and work with MCP servers. These utilities simplify the installation process and improve the user experience.
 
+### Directories
+
+- [MCPhq](https://mcphq.ai) - A searchable directory of MCP servers ranked by real install counts and re-verified nightly against GitHub and package registries, with copy-paste install configs for every major client.
+
 ### Server Managers
 
 - [mcp-get](https://github.com/michaellatman/mcp-get) - CLI tool for installing and managing MCP servers. Simplifies server installation and configuration for Claude Desktop.
